@@ -1,4 +1,4 @@
-import { Snap } from '../models/snap.model.js';
+import { Snap } from '../models/Snap.model.js';
 import { uploadOnCloudinary } from '../utils/cloudinary.js';
 
 const uploadSnap = async (req, res) => {
